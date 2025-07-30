@@ -1,20 +1,17 @@
 # Simple Python Calculator
 This repository contains a basic command-line calculator program written in Python. It allows users to perform fundamental arithmetic operations: addition, subtraction, multiplication, and division.
-# Features
-a) User Input: Prompts the user to enter two numbers.
-b) Operation Selection: Allows the user to choose from common mathematical operations (+, -, *, /).
-c) Calculation: Performs the selected operation on the given numbers.
-d) Result Display: Prints the equation and the calculated result to the console.
-e) Error Handling: Includes basic error handling for invalid number input and division by zero.
-# How to Run
-To run this Python script, you will need Python 3 installed on your system.
-1. Clone the repository (or download the file):
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
-(Replace YOUR_USERNAME and YOUR_REPOSITORY_NAME with your actual GitHub username and the name of your calculator repository.)
-2. Execute the script:
-python calculator.py
-(Assuming you named the Python file calculator.py)
+## Features
+- User Input: Prompts the user to enter two numbers.
+- Operation Selection: Choose from +, -, *, /.
+- Calculation: Performs the selected operation.
+- Result Display: Prints the equation and result.
+- Error Handling: Handles invalid input and division by zero.
+## How to Run
+1. Clone the repository:
+   git clone https://github.com/MarthaMaina/MarthaCalc.py.git
+   cd MarthaCalc.py
+2. Run the script:
+   python calculator.py
 The program will then guide you through entering the numbers and the desired operation.
 # Example Usage
 Welcome to the Simple Calculator!
